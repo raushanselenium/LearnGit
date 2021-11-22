@@ -1,0 +1,4 @@
+23:26:43.932 [main] DEBUG log4J.Demo1Test - I am debugging
+23:26:43.936 [main] FATAL log4J.Demo1Test - I am fatal
+23:26:43.936 [main] ERROR log4J.Demo1Test - I am error
+23:26:43.936 [main] INFO  log4J.Demo1Test - i am info
