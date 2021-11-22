@@ -13,6 +13,8 @@ public class Demo1Test {
 		log.fatal("I am fatal");
 		log.error("I am error");
 		log.info("i am info");
+		log.info("i am info2");
+		log.info("i am info3");
 	}
 
 }
